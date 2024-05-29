@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="" />
+    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Carrinho.executor": "Run",
+    "Application.Cerimonia.executor": "Run",
     "Application.Instancias.executor": "Run",
     "Application.Livraria.executor": "Run",
     "Application.Main.executor": "Run",
@@ -77,13 +80,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ordenador">
-    <configuration name="Carrinho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.desafios.CarrinhoCompras.Carrinho" />
+  <component name="RunManager" selected="Application.Dicionario">
+    <configuration name="Cerimonia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.Cerimonia" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.desafios.CarrinhoCompras.*" />
+          <option name="PATTERN" value="set.OperacoesBasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Livraria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Pesquisa.Livraria" />
+    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Desafios.PalavrasUnicas.Dicionario" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.Pesquisa.*" />
+          <option name="PATTERN" value="set.Desafios.PalavrasUnicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dicionario" />
+        <item itemvalue="Application.Cerimonia" />
         <item itemvalue="Application.Ordenador" />
         <item itemvalue="Application.Ordenacao" />
         <item itemvalue="Application.Somatorio" />
-        <item itemvalue="Application.Livraria" />
-        <item itemvalue="Application.Carrinho" />
       </list>
     </recent_temporary>
   </component>
