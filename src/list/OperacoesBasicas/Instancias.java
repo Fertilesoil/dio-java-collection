@@ -1,4 +1,4 @@
-package list.OperacoesBasicas.ListaTarefas;
+package list.OperacoesBasicas;
 
 
 public class Instancias {
