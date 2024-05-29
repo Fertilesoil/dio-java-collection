@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/OperacoesBasicas/ListaTarefas/Instancias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/OperacoesBasicas/Instancias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/OperacoesBasicas/ListaTarefas/ListaTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/OperacoesBasicas/ListaTarefas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/OperacoesBasicas/ListaTarefas/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/OperacoesBasicas/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/desafios/SomaNumeros/Somatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/desafios/SomaNumeros/Somatorio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,34 +64,24 @@
     "Application.Instancias.executor": "Run",
     "Application.Livraria.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Ordenacao.executor": "Run",
+    "Application.Ordenador.executor": "Run",
     "Application.Poucas.executor": "Run",
     "Application.Somatorio.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "List",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Somatorio">
+  <component name="RunManager" selected="Application.Ordenador">
     <configuration name="Carrinho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.desafios.CarrinhoCompras.Carrinho" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="list.desafios.CarrinhoCompras.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Instancias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.OperacoesBasicas.ListaTarefas.Instancias" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.OperacoesBasicas.ListaTarefas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poucas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Poucas" />
+    <configuration name="Ordenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Ordenacao.Ordenacao" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="list.Ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ordenador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.desafios.OrdenaNumeros.Ordenador" />
+      <module name="dio-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.desafios.OrdenaNumeros.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ordenador" />
+        <item itemvalue="Application.Ordenacao" />
         <item itemvalue="Application.Somatorio" />
         <item itemvalue="Application.Livraria" />
         <item itemvalue="Application.Carrinho" />
-        <item itemvalue="Application.Instancias" />
-        <item itemvalue="Application.Poucas" />
       </list>
     </recent_temporary>
   </component>
