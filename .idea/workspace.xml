@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="" />
+    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="Set" />
-                    <option name="lastUsedInstant" value="1717008141" />
+                    <option name="lastUsedInstant" value="1717080038" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="List" />
@@ -66,6 +68,7 @@
     "Application.Carrinho.executor": "Run",
     "Application.Cerimonia.executor": "Run",
     "Application.Dicionario.executor": "Run",
+    "Application.GerenciadorAlunos.executor": "Run",
     "Application.Instancias.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
     "Application.Livraria.executor": "Run",
@@ -78,10 +81,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Set",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CadastroProdutos">
+  <component name="RunManager" selected="Application.GerenciadorAlunos">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
       <module name="dio-java-collections" />
@@ -108,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cerimonia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.Cerimonia" />
+    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Desafios.PalavrasUnicas.Dicionario" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.OperacoesBasicas.*" />
+          <option name="PATTERN" value="set.Desafios.PalavrasUnicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Desafios.PalavrasUnicas.Dicionario" />
+    <configuration name="GerenciadorAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Desafios.ListaDeAlunos.GerenciadorAlunos" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.Desafios.PalavrasUnicas.*" />
+          <option name="PATTERN" value="set.Desafios.ListaDeAlunos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GerenciadorAlunos" />
         <item itemvalue="Application.CadastroProdutos" />
         <item itemvalue="Application.ListaTarefas" />
         <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.Dicionario" />
-        <item itemvalue="Application.Cerimonia" />
       </list>
     </recent_temporary>
   </component>
