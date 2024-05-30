@@ -64,9 +64,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaContatos.executor": "Run",
     "Application.Carrinho.executor": "Run",
     "Application.Cerimonia.executor": "Run",
+    "Application.Dicionario.executor": "Run",
     "Application.Instancias.executor": "Run",
+    "Application.ListaTarefas.executor": "Run",
     "Application.Livraria.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Ordenacao.executor": "Run",
@@ -80,7 +83,20 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Dicionario">
+  <component name="RunManager" selected="Application.ListaTarefas">
+    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
+      <module name="dio-java-collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.Pesquisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cerimonia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.OperacoesBasicas.Cerimonia" />
       <module name="dio-java-collections" />
@@ -107,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ordenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Ordenacao.Ordenacao" />
+    <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Desafios.ListaDeTarefas.ListaTarefas" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.Ordenacao.*" />
+          <option name="PATTERN" value="set.Desafios.ListaDeTarefas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Somatorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.desafios.SomaNumeros.Somatorio" />
-      <module name="dio-java-collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.desafios.SomaNumeros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaTarefas" />
+        <item itemvalue="Application.AgendaContatos" />
         <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.Cerimonia" />
         <item itemvalue="Application.Ordenador" />
-        <item itemvalue="Application.Ordenacao" />
-        <item itemvalue="Application.Somatorio" />
       </list>
     </recent_temporary>
   </component>
