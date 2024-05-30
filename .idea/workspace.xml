@@ -69,6 +69,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AgendaContatos.executor": "Run",
+    "Application.AgendaEventos.executor": "Run",
     "Application.CadastroProdutos.executor": "Run",
     "Application.Carrinho.executor": "Run",
     "Application.Cerimonia.executor": "Run",
@@ -77,6 +78,7 @@
     "Application.Instancias.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
     "Application.Livraria.executor": "Run",
+    "Application.LivrariaOnline.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperacoesBasicas.AgendaContatos.executor": "Run",
     "Application.Ordenacao.executor": "Run",
@@ -94,13 +96,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Dicionario">
-    <configuration name="CadastroProdutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Ordenacao.CadastroProdutos" />
+  <component name="RunManager" selected="Application.LivrariaOnline">
+    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ordenacao.AgendaEventos" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.Ordenacao.*" />
+          <option name="PATTERN" value="Ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Desafios.ListaDeTarefas.ListaTarefas" />
+    <configuration name="LivrariaOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafios.LivrariaOnline.LivrariaOnline" />
       <module name="dio-java-collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.Desafios.ListaDeTarefas.*" />
+          <option name="PATTERN" value="Desafios.LivrariaOnline.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LivrariaOnline" />
+        <item itemvalue="Application.AgendaEventos" />
         <item itemvalue="Application.Dicionario" />
         <item itemvalue="Application.EstoqueProdutos" />
         <item itemvalue="Application.OperacoesBasicas.AgendaContatos" />
-        <item itemvalue="Application.CadastroProdutos" />
-        <item itemvalue="Application.ListaTarefas" />
       </list>
     </recent_temporary>
   </component>
