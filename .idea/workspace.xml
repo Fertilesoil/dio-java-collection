@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="" />
+    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Map" />
+                    <option name="lastUsedInstant" value="1717079534" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Set" />
                     <option name="lastUsedInstant" value="1717008141" />
@@ -63,6 +69,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AgendaContatos.executor": "Run",
+    "Application.CadastroProdutos.executor": "Run",
     "Application.Carrinho.executor": "Run",
     "Application.Cerimonia.executor": "Run",
     "Application.Dicionario.executor": "Run",
@@ -76,9 +83,9 @@
     "Application.Somatorio.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Set",
+    "git-widget-placeholder": "Map",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CadastroProdutos">
