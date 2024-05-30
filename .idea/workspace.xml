@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="81ac2a6d-7374-4db3-a00f-f3d972ab288e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +30,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="Map" />
-                    <option name="lastUsedInstant" value="1717079534" />
+                    <option name="lastUsedInstant" value="1717084338" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Set" />
@@ -66,28 +64,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AgendaContatos.executor": "Run",
-    "Application.CadastroProdutos.executor": "Run",
-    "Application.Carrinho.executor": "Run",
-    "Application.Cerimonia.executor": "Run",
-    "Application.Dicionario.executor": "Run",
-    "Application.Instancias.executor": "Run",
-    "Application.ListaTarefas.executor": "Run",
-    "Application.Livraria.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Ordenacao.executor": "Run",
-    "Application.Ordenador.executor": "Run",
-    "Application.Poucas.executor": "Run",
-    "Application.Somatorio.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Map",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgendaContatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadastroProdutos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Carrinho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cerimonia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dicionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Instancias.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListaTarefas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Livraria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ordenacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ordenador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Poucas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Somatorio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Map&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.CadastroProdutos">
     <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.Pesquisa.AgendaContatos" />
